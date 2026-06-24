@@ -1,0 +1,17 @@
+[
+  {
+    "SNO": 1,
+    "task": "Learn Node.js",
+    "status": "Pending"
+  },
+  {
+    "SNO": 2,
+    "task": "Complete Assignment",
+    "status": "In Progress"
+  },
+  {
+    "SNO": 3,
+    "task": "Practice Modules",
+    "status": "Completed"
+  }
+]
