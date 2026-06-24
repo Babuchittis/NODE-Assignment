@@ -1,3 +1,6 @@
+// Task1
+
+
 // const fs = require("fs");
 // const path = require("path");
 
@@ -14,6 +17,9 @@
 //     console.log("Data from JSON:");
 //     console.log(JSON.parse(data));
 // });
+
+
+// Task2
 
 // // Custom Module Function
 // function getTasks() {
@@ -50,7 +56,7 @@
 
 
 
-
+// Task3
 
 
 const fs = require("fs");
